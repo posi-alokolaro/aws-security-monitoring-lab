@@ -70,3 +70,8 @@ Category: Data
 Source: s3.amazonaws.com
 Error Code: AccessDenied
 IAM Role: SecurityLabS3LeastPrivilege
+```
+
+## Disclaimer
+
+This project was created as a personal cybersecurity lab. Account numbers, public IP addresses, resource IDs, and other identifying information have been removed or sanitized from public documentation.
